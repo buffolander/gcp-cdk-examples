@@ -1,0 +1,11 @@
+{
+  "name": "gcp-cdk-examples",
+  "packageManager": "yarn@3.5.1",
+  "private": true,
+  "workspaces": [
+    "examples/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

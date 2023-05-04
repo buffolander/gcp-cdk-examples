@@ -1,0 +1,11 @@
+{
+  "exclude": [
+    "examples/**/src/*.test.*",
+    "examples/**/cdk/*.test.*",
+    "examples/**/tests/**",
+    "examples/**/dist/**"
+  ],
+  "references": [{
+    "path": "./examples/basic-cloud-run-service"
+  }]
+}
