@@ -10,4 +10,18 @@
 !.yarn/cache
 #.pnp.*
 
+# service account key
 **/key.json
+
+**/*.d.ts
+**/*.js
+**/node_modules
+**/cdktf.out
+**/cdktf.log
+**/*terraform.*.tfstate*
+**/.gen
+**/.terraform
+**/tsconfig.tsbuildinfo
+**/!jest.config.js
+**/!jest.setup.js
+
