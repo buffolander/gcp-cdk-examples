@@ -1,0 +1,10 @@
+indentSize: 2
+indentStyle: space
+semi: false
+singleQuote: true
+trailingComma: es5
+
+importOrder: ['^@(.*)/(.*)$', '^(?![./])', '^[./]']
+importOrderSeparation: true
+importOrderSortSpecifiers: true
+importOrderGroupNamespaceSpecifiers: true
